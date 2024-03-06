@@ -671,11 +671,12 @@ a{
         align-items: center;
         justify-content: center;
     }
-    .Section_3_TitleBlock{
+    .Section_3_TitleBlock {
         margin-bottom: 0%;
         margin-right: 0%;
         width: 50%;
         text-align: center;
+    }
         h1{
             font-size: 25px;
         }
@@ -734,8 +735,8 @@ a{
         .Section_5_TitleBlock h2{
             font-size: 20px;
         }
-    
-}
+
+
 
 @media (max-width: 500px){
     .logo_section{
